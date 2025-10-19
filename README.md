@@ -37,3 +37,8 @@ Al hacer clic en la ventana del dibujo, esta se cerrará.
 <a href="https://www.linkedin.com/in/alejandraconb-dev/" target="_blank">
 <img img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <img img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" target="_blank" height="40"></a>
+
+<!-- 
+- Cambiar el color de fondo: turtle.bgcolor("black")
+- Cambiar el color de la pluma: t.pencolor("blue")
+- Ajustar la velocidad: t.speed(0) (0 = más rápido) -->
