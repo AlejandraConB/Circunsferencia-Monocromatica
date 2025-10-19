@@ -13,6 +13,7 @@
 
 ## ▶️ Cómo ejecutar el código
 
+- Clona o descarga el proyecto.
 - Guarda el código en un archivo, por ejemplo: spiral_turtle.py.
 - Abre una terminal o consola.
 - Navega hasta la carpeta donde guardaste el archivo.
