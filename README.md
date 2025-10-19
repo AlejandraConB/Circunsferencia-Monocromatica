@@ -8,10 +8,10 @@ Este proyecto utiliza el módulo turtle de Python para crear un patrón visual d
 <img align="center" src="https://github.com/AlejandraConB/Images/blob/main/Circunsferencia_monocrom%C3%A1tica.png" height="200" alt="Circunsferencia monocromática">
 </br>
 
-## 📦 Requisitos
+## 📦 Requisitos:
 
 - Tener instalado la versión más actualizada de Python.
-- Tener instalado Visual Studio Code. </br>
+- Tener instalado Visual Studio Code. </br></br>
 
 💙 <strong>Alejandra Contreras</strong></br></br>
 <a href="https://www.linkedin.com/in/alejandraconb-dev/" target="_blank">
