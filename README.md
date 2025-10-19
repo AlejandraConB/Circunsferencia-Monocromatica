@@ -1,8 +1,8 @@
 ## 🖥️ Tecnologías Utilizadas:
 
-- Python
-- Turtle
-- Visual Studio Code
+- Python.
+- Turtle.
+- Visual Studio Code.
 </br></br>
 Este proyecto utiliza el módulo turtle de Python para crear un patrón visual de espiral circular. Turtle dibuja una serie de círculos cada vez más grandes, girando ligeramente en cada paso, lo que genera un efecto de espiral helicoidal.
 <img align="center" src="https://github.com/AlejandraConB/Images/blob/main/Circunsferencia_monocrom%C3%A1tica.png" height="200" alt="Circunsferencia monocromática">
@@ -10,7 +10,8 @@ Este proyecto utiliza el módulo turtle de Python para crear un patrón visual d
 
 ## 📦 Requisitos
 
-- Tener instalado la versión más actualizada de Python </br>
+- Tener instalado la versión más actualizada de Python.
+- Tener instalado Visual Studio Code. </br>
 
 💙 <strong>Alejandra Contreras</strong></br></br>
 <a href="https://www.linkedin.com/in/alejandraconb-dev/" target="_blank">
