@@ -23,6 +23,16 @@ Este proyecto utiliza el módulo turtle de Python para crear un patrón visual d
 Al hacer clic en la ventana del dibujo, esta se cerrará.
 </br></br>
 
+## 📝 Explicación del código
+
+- import turtle: Importa el módulo Turtle para gráficos.
+- t = turtle.Pen(): Crea una tortuga lista para dibujar.
+- for x in range(100): Repite el dibujo 100 veces, con x aumentando de 0 a 99.
+- t.circle(x): Dibuja un círculo cuyo radio es el valor actual de x.
+- t.left(91): Gira la tortuga 91 grados a la izquierda (el ángulo impar crea el efecto de espiral).
+- turtle.exitonclick(): Cierra la ventana al hacer clic dentro de ella.
+</br></br>
+
 💙 <strong>Alejandra Contreras</strong></br></br>
 <a href="https://www.linkedin.com/in/alejandraconb-dev/" target="_blank">
 <img img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
