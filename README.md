@@ -1,6 +1,7 @@
 ## 🖥️ Tecnologías Utilizadas:
 
 - Python
+- Turtle
 - Visual Studio Code
 </br>
 <img align="center" src="https://github.com/AlejandraConB/Images/blob/main/Circunsferencia_monocrom%C3%A1tica.png" height="200" alt="Circunsferencia monocromática">
