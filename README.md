@@ -11,7 +11,17 @@ Este proyecto utiliza el módulo turtle de Python para crear un patrón visual d
 ## 📦 Requisitos:
 
 - Tener instalado la versión más actualizada de Python.
-- Tener instalado Visual Studio Code. </br></br>
+- Tener instalado Visual Studio Code.
+</br></br>
+
+## ▶️ Cómo ejecutar el código
+
+- Guarda el código en un archivo, por ejemplo: spiral_turtle.py.
+- Abre una terminal o consola.
+- Navega hasta la carpeta donde guardaste el archivo.
+- Ejecuta el programa con el siguiente comando: python spiral_turtle.py
+Al hacer clic en la ventana del dibujo, esta se cerrará.
+</br></br>
 
 💙 <strong>Alejandra Contreras</strong></br></br>
 <a href="https://www.linkedin.com/in/alejandraconb-dev/" target="_blank">
