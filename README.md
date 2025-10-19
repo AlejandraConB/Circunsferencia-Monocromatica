@@ -10,7 +10,7 @@ Este proyecto utiliza el módulo turtle de Python para crear un patrón visual d
 
 ## 📦 Requisitos
 
-- Python 3.x (instalado en tu sistema)
+- Tener instalado la versión más actualizada de Python </br>
 
 💙 <strong>Alejandra Contreras</strong></br></br>
 <a href="https://www.linkedin.com/in/alejandraconb-dev/" target="_blank">
