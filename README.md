@@ -7,9 +7,10 @@
 Este proyecto utiliza el módulo turtle de Python para crear un patrón visual de espiral circular. Turtle dibuja una serie de círculos cada vez más grandes, girando ligeramente en cada paso, lo que genera un efecto de espiral helicoidal.
 <img align="center" src="https://github.com/AlejandraConB/Images/blob/main/Circunsferencia_monocrom%C3%A1tica.png" height="200" alt="Circunsferencia monocromática">
 </br>
+
 ## 📦 Requisitos
 
-Python 3.x (instalado en tu sistema)
+- Python 3.x (instalado en tu sistema)
 
 💙 <strong>Alejandra Contreras</strong></br></br>
 <a href="https://www.linkedin.com/in/alejandraconb-dev/" target="_blank">
